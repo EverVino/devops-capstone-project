@@ -1,30 +1,20 @@
 ---
-name: 🐛 Bug Report
-about: Create a report to help us improve.
-title: '[BUG] '
-labels: bug
+name: User story
+about: Create a user story.
+title: ''
+labels: story
 assignees: ''
 ---
 
-## Description
-A clear and concise description of what the bug is.
+**As a** [role]  
+**I need** [function]  
+**So that** [benefit]  
+      
+### Details and Assumptions
+    * [document what you know]      
 
-## Steps to Reproduce
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-## Expected Behavior
-A clear and concise description of what you expected to happen.
-
-## Screenshots
-If applicable, add screenshots to help explain your problem.
-
-## Environment Data
-- OS: [e.g. iOS]
-- Browser / Device: [e.g. Chrome, iPhone 14]
-- Version: [e.g. 22.0.4]
-
-## Additional Context
-Add any other context about the problem here.
+### Acceptance Criteria     
+    gherkin 
+    Given [some context]
+    When [certain action is taken]
+    Then [the outcome of action is observed]
