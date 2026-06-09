@@ -1,3 +1,5 @@
+![Build Status](https://github.com/EverVino/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 # devops-capstone-project
 
 A project to implement a agile planning.
